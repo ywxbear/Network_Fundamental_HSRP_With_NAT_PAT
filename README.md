@@ -1,7 +1,13 @@
 # Network Fundamental Hot Standby Router Protocol (HSRP) Set Up (Cisco Packet Tracer - For study purpose only)
 Here in this project i will configure a Hot Standby Router Protocol (HSRP) architecture. These designs can be expanded to create very complex architectures depending on the network requirements.
 
-Hot Standby Router Protocol (HSRP) is a CISCO proprietary protocol, which provides redundancy for a local subnet. In HSRP, two or more routers gives an illusion of a virtual router. HSRP allows you to configure two or more routers as standby routers and only a single router as active router at a time. All the routers in a single HSRP group shares a single MAC address and IP address, which acts a default gateway to the local network. The Active router is responsible for forwarding the traffic. If it fails, the Standby router takes up all the responsibilities of the active router and forwards the traffic.
+##Configuration List
+1. HSRP
+2. STP Root Bridge
+3. VTP
+4. ACL
+5. DHCP
+6. Custom Website & DNS Service
 
 ![network design](/hsrp.PNG)
 
