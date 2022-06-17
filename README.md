@@ -1,13 +1,15 @@
-# Network Fundamental Hot Standby Router Protocol (HSRP) Set Up - Part 1 (Cisco Packet Tracer - For study purpose only)
+# Network Fundamental Hot Standby Router Protocol (HSRP) Set Up With NAT/PAT (Cisco Packet Tracer - For study purpose only)
 Here in this project i will configure a Hot Standby Router Protocol (HSRP) architecture. These designs can be expanded to create very complex architectures depending on the network requirements.
 
 ## Configuration List
 1. HSRP
 2. STP Root Bridge
-3. VTP
-4. ACL
-5. DHCP
-6. Custom Website & DNS Service
+3. NAT
+4. PAT
+5. VTP
+6. ACL
+7. DHCP
+8. Custom Website & DNS Service
 
 ![network design](/hsrp.PNG)
 
